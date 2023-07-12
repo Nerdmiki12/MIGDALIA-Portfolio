@@ -1,4 +1,4 @@
-<h1>Hi, I'm Migdalia! <br/><a href="https://github.com/Nerdmiki12">Compliance Analyst</a>, <a href="https://www.linkedin.com/in/migdalia-gil-a702b37b/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@MIGDALIACYBERONLINE">YouTuber</a></h1>
+<h1>Hi, I'm Migdalia! <br/><a href="https://github.com/Nerdmiki12">Compliance Analyst</a>, <a href="https://www.linkedin.com/in/migdalia-gil-a702b37b/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/MIGDALIACYBERONLINE">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -19,9 +19,9 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/c/MIGDALIACYBERONLINE
+[instagram]: https://www.instagram.com/migdaliatechchic/
+[linkedin]: https://linkedin.com/in/migdalia-gil-a702b37b
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
