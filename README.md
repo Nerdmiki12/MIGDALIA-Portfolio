@@ -10,7 +10,7 @@
   - [Cyber security: Understand Threats and Prevent Attacks](https://alison.com/certification/check/$2y$10$z2OhMp5uybqLBgFP15huCOupGUryosRsCg097VWHGF7X.22.in86)
   - [Cyber Security Management Virtual-Social Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ%20Australia/Hf4QMESoFeQwXPsiH_ANZ%20Australia_AvKoiYSrcS3LfZjv4_1687089213632_completion_certificate.pdf)
   - [Program for Everybody(Getting Started with Python)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>PCI Compliance</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
