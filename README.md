@@ -29,7 +29,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/MIGDALIA'SCYBERCHANNEL
+[youtube]: https://www.youtube.com/channel/UCrTTE6_pSz0yJ-OgIwJObgA
 [instagram]: https://www.instagram.com/migdaliatechchic/
 [linkedin]: https://linkedin.com/in/migdalia-gil-a702b37b
 
