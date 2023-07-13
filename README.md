@@ -5,8 +5,18 @@
   - [Tutorial Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
   - [Tutorial Hello World!](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 <h2> Certifications</h2>
+
   - [Google Foundation of Cybersecurity](https://coursera.org/share/681c1b8d52585c8e74579dcf47c3a357)
-  - [Cybersecurity Virtual Experience Program](
+  - [Cyber security: Understand Threats and Prevent Attacks](https://alison.com/certification/check/$2y$10$z2OhMp5uybqLBgFP15huCOupGUryosRsCg097VWHGF7X.22.in86)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
