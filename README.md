@@ -11,6 +11,9 @@
   - [Cyber Security Management Virtual-Social Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ%20Australia/Hf4QMESoFeQwXPsiH_ANZ%20Australia_AvKoiYSrcS3LfZjv4_1687089213632_completion_certificate.pdf)
   - [Shields Up: Cybersecurity Virtual Experience
 Program-AIG](https://[(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/aig/2ZFnEGEDKTQMtEv9C_AIG_AvKoiYSrcS3LfZjv4_1686927872795_completion_certificate.pdf))
+- [Forage: Cybersecurity Virtual Experience
+Program-Datacom](https://[(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_AvKoiYSrcS3LfZjv4_1689709658001_completion_certificate.pdf))
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
