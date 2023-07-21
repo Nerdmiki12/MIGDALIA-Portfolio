@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Tutorial Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
-  - [Tutorial Hello World!](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 <h2> Certifications</h2>
 
   - [Google Foundation of Cybersecurity](https://coursera.org/share/681c1b8d52585c8e74579dcf47c3a357)
